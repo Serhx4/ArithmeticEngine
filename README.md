@@ -1,6 +1,7 @@
 # ArithmeticEngine
-Arithmetic calculator with simple UI, database connection (SQLite). Just a test project
-Engine for calculating arithmetic expressions.
+Arithmetic calculator with simple UI, database connection (SQLite). Just a test project.
+
+Engine for calculating arithmetic expressions:
 
 Checks the correctness of entered arithmetic expressions, the arrangement of signs, operators and parentheses.
 Supports +-*/ operations.
