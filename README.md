@@ -11,4 +11,4 @@ Converts inflix to postflix and evaluates postflix expressions.
 Stores calculated values in a local database (SQLite).
 Supports CRUD operations and output of sorted data.
 
-It has a simple Swing-based GUI for user interaction with all calculator and database functions.
+It has a simple Swing-based GUI for user's interaction with all calculator and database functions.
